@@ -21,7 +21,7 @@ const Hero=()=>{
     <div className="flex items-center justify-center md:justify-start gap-4 mt-4 md:ml-28 lg:ml-44">
 {/* WhatsApp Link */}
 <a href={whatsappLink} target="_blank" rel="noopener noreferrer" className="flex items-center hover:scale-110 transition-transform">
-  <img src="assets/whatsapp.svg" alt="WhatsApp" className="w-8 h-8" />
+  <img src="src/assets/whatsapp.svg" alt="WhatsApp" className="w-8 h-8" />
   <span className="ml-2 text-sm font-medium">Chat</span>
 </a>
 
