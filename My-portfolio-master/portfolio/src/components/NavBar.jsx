@@ -47,7 +47,7 @@ const Navbar = () => {
         </div>
         <div className="hidden md:flex space-x-6 items-center">
         <a 
-            href="https://github.com/chaan3" 
+            href="https://github.com/srinidhi-ishwarya/" 
             target="_blank" 
             rel="noopener noreferrer"
             className="bg-white text-[#0f0f3d] px-4 py-2 rounded-md hover:bg-gray-300 transition duration-300"

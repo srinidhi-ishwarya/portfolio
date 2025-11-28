@@ -65,23 +65,17 @@ const Footer = () => {
 
           {/* Social Media Links */}
           <div className="flex space-x-4 p-4 mt-16">
-      <a href="https://wa.me/+918344292756" className="text-green-500 hover:text-green-800 transition-colors">
+      <a href="https://wa.me/+919361733944" className="text-green-500 hover:text-green-800 transition-colors">
         <FaWhatsapp size={30} />
       </a>
-      <a href="https://x.com/@chandra37430878" className=" hover:text-blue-600 transition-colors">
-        {/* <FaTwitter size={30} /> */}
-        <div className="relative group">
-        <img src="assets/X-white.png" alt="X-logo" className="sm:w-8 md:w-8 lg:mt-0.5 object-cover transition-all duration-300 group-hover:grayscale-0 grayscale"   />
-        <div className="absolute inset-0 bg-black opacity-0 group-hover:opacity-50 transition-all duration-300"></div>
-      </div>
-      </a>
-      <a href="https://www.instagram.com/__mt_3" className="text-pink-600 hover:text-white transition-colors">
+    
+      {/* <a href="https://www.instagram.com/__mt_3" className="text-pink-600 hover:text-white transition-colors">
         <FaInstagram size={30} />
-      </a>
-      <a href="https://linkedin.com" className="text-blue-700 hover:text-blue-900 transition-colors">
+      </a> */}
+      <a href="https://linkedin.com/in/srinidhi-ishwarya-m" className="text-blue-700 hover:text-blue-900 transition-colors">
         <FaLinkedin size={30} />
       </a>
-      <a href="https://github.com/chaan3" target="_blank" rel="noopener noreferrer" >
+      <a href="https://github.com/srinidhi-ishwarya/" target="_blank" rel="noopener noreferrer" >
       <FaGithub size={30} />
       </a>
     </div>

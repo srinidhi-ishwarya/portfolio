@@ -3,8 +3,8 @@ import ScrollSectionbottom from "./scrollanimation/scrollbottom";
 import ScrollSectionsideright from "./scrollanimation/Scrollright";
 
 const Hero=()=>{
-    const whatsappLink = "https://wa.me/+918344292756";
-    const emailLink = "mailto:chandaji628@gmail.com"; // Replace with your email
+    const whatsappLink = "https://wa.me/+919361733944";
+    const emailLink = "mailto:srinidhiishwaryam@gmail.com"; // Replace with your email
     return(
           <div className="flex flex-col-reverse md:flex-row items-center justify-center px-6 md:px-16 lg:px-24 py-10 space-y-10 md:space-y-0">
   {/* Text Content */}
@@ -52,7 +52,7 @@ const Hero=()=>{
 {/* Avatar */}
 <div className="md:w-1/2 flex justify-center">
   <ScrollSectionsideright>
-    <img src="assets/Profile.png" alt="Srinidhi Ishwarya Avatar" className="rounded-full shadow-lg w-48 md:w-64 lg:w-96" />
+    <img src="src/assets/Profile.jpg" alt="Srinidhi Ishwarya Avatar" className="rounded-full shadow-lg w-40 md:w-64 lg:w-96" />
   </ScrollSectionsideright>
 </div>
 </div>
