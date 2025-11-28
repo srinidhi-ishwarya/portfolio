@@ -2,8 +2,8 @@ import React from "react";
 
 const Contactm = () => {
   // WhatsApp link (replace with your WhatsApp number or link)
-  const whatsappLink = "https://wa.me/+918344292756"; // Replace with your WhatsApp number
-  const emailLink = "mailto:chandaji628@gmail.com"; // Replace with your email
+  const whatsappLink = "https://wa.me/+919361733944"; // Replace with your WhatsApp number
+  const emailLink = "mailto:srinidhiishwaryam@gmail.com"; // Replace with your email
 
   return (
     // <div className="min-h-screen flex flex-col justify-center items-center bg-gray-100 p-4">
