@@ -52,7 +52,7 @@ const Hero=()=>{
 {/* Avatar */}
 <div className="md:w-1/2 flex justify-center">
   <ScrollSectionsideright>
-    <img src="src/assets/Profile.jpg" alt="Srinidhi Ishwarya Avatar" className="rounded-full shadow-lg w-40 md:w-64 lg:w-96" />
+    <img src="assets/Profile.jpg" alt="Srinidhi Ishwarya Avatar" className="rounded-full shadow-lg w-40 md:w-64 lg:w-96" />
   </ScrollSectionsideright>
 </div>
 </div>

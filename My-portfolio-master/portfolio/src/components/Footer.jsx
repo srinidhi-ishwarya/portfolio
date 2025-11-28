@@ -60,7 +60,7 @@ const Footer = () => {
           {/* Logo & Branding */}
           <div className="text-center md:text-left">
             {/* <h2 className="text-2xl font-bold text-red-500 italiana-regular">Chandran</h2> */}
-            <img src="assets/Footer-logo.png" alt="my logo" className="mx-auto md:mx-0 h-auto" />
+            <img src="assets/Profile.jpg" alt="my logo" className="mx-auto md:mx-0 h-auto" />
           </div>
 
           {/* Social Media Links */}

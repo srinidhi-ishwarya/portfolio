@@ -9,7 +9,7 @@ const About = () => {
     <div className="mt-6 w-full justify-center">
       <ScrollSectiontop>
         <h2 className="text-4xl italiana-regular flex items-center justify-center">
-          <img src="/src/assets/about.png" alt="" className='w-20 h-20 px-3 py-3' />
+          <img src="assets/about.png" alt="" className='w-20 h-20 px-3 py-3' />
           About Me
         </h2>
       </ScrollSectiontop>
